@@ -6,7 +6,7 @@ This repository contains a collection of web scraping projects I have worked on,
 🛠️ Technologies Used
 Programming Language: Python
 Libraries/Tools:
-Beautiful Soup for HTML parsing
-Requests for making HTTP requests
+Beautiful Soup for HTML parsing                                                 
+Requests for making HTTP requests                                     
 Selenium for browser automation
 Pandas for data manipulation
